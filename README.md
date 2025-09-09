@@ -2,6 +2,8 @@
 
 A Python script to download manga chapters from [WeebCentral](https://weebcentral.com).
 
+Download: [here](https://github.com/myathtoo42/WeebCentral-Downloader/releases/tag/v1.0)
+
 ## Features
 - Lists all chapters of a series.
 - Shows the number of pages for each chapter.
