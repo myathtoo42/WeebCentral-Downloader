@@ -20,9 +20,3 @@ You can install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-
-## Downloads
-
-You can download the standalone Windows version here:
-
-[WeebCentral Downloader v1.0](https://github.com/myathtoo42/WeebCentral-Downloader/releases/tag/v1.0)
